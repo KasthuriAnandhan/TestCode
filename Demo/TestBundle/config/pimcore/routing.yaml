@@ -1,0 +1,3 @@
+demo_test_homepage:
+    path:     /demo_test
+    defaults: { _controller: DemoTestBundle\Controller\DefaultController::indexAction }
